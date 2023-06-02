@@ -1,0 +1,32 @@
+.comment-card{
+    padding: 30px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+.comment-card .num{
+    display: flex;
+    height: 3vw;
+    justify-content: center;
+    width: 3vw;
+    align-items: center;
+    background-color: #7fc700;
+    color: #fff;
+    border-radius: 50%;
+}
+.comment-card h1{
+    font-size: 28px;
+    font-weight: 500;
+    padding-top: 15px;
+}
+.comment-card p{
+    width: 20vw;
+    font-size: 16px;
+    line-height: 2;
+}
+.comment-card .arrow{
+    color: #ff5e00;
+    cursor: pointer;
+}

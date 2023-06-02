@@ -1,0 +1,15 @@
+.actioans-card-content {
+    width: 207px;
+    height: 355px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.actioans-card-content h3{
+    color: #FF5E00;
+}
+
+.actions-cards{
+    padding: 50px 0;
+}

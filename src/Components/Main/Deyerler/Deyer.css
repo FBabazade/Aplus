@@ -1,0 +1,21 @@
+.deyerlerimiz{
+    width: 86%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.deyerlerimiz .boxes{
+    padding-top: 20px;
+    display: flex;
+  justify-content: space-between;
+}
+.deyerlerimiz .box{
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    border-radius: 5px;
+    height: 190px;
+    justify-content: center;
+    width: 15vw;
+    align-items: center;
+    gap: 1.5vw;
+}
